@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### This is Jiadi Wang, a graduate student of the Viterbi School of Engineering of USC, majoring in Applied Data Science.
+### I graduated From Rose-Hulman Institute of Technology in 2022, double majoring in Computer Science and Data Science.
+
+- 🔭 I’m currently working on ... this summer
+
 <!--
 **wangj19/wangj19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
