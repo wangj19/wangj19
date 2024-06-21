@@ -5,6 +5,7 @@
 #### Graduated From Rose-Hulman Institute of Technology in 2022, double majoring in Computer Science and Data Science.
 
 - 🔭 I’m currently working on [Kaggle Competitions](https://github.com/wangj19/Kaggle-Competition) this summer
+  - Notebook Medal: 1🥈2🥉
 
 <!--
 **wangj19/wangj19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
